@@ -174,8 +174,8 @@ public class BaseClass {
 				Select s= new Select(ele);
 				s.deselectAll();
 				}
-			 
 			
-			
-
+private void Reethikan() {
+	System.out.println("Reethikan");
+}
 }
